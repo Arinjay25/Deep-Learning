@@ -1,0 +1,13 @@
+
+
+Probelm 2: Programming Question
+
+Dataset URL - http://archive.ics.uci.edu/ml/datasets/communities+and+crime
+
+Code file \: UCI Data Set Multi Class Classification.py
+
+CIFAR_10 Dataset
+#Keras built in dataset was used for this assignment:
+#(x_train_all, y_train_all), (x_test_all, y_test_all) = cifar10.load_data()
+
+Code file: CIFAR 10.py

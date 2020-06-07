@@ -1,0 +1,13 @@
+Problem 1: CIFAR_10 Dataset
+I used Keras built in CIFAR-10 dataset. 
+
+Problem 2: Spam Base
+
+I used the provided URL for SpamBase dataset
+url = "https://archive.ics.uci.edu/ml/machine-learning-databases/spambase" 
+
+
+Problem 3: Crime
+
+I used the provided URL for Communities and Crime dataset
+url = "http://archive.ics.uci.edu/ml/machine-learning-databases/communities" 
