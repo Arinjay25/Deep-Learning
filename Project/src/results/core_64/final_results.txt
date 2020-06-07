@@ -1,0 +1,1 @@
+Average reward over 5 sets of 100 iterations each is : 821.39  +/- 493.09

@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/sankalp/anaconda3/envs/doom/bin/python",
+    "python.linting.enabled": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.flake8Enabled": false
+}

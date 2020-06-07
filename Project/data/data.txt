@@ -1,0 +1,2 @@
+Data obtained in this project is generated on air.
+In order to generate the data refer to the readme in src directory.
